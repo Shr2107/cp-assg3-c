@@ -46,5 +46,5 @@ The sum of the three numbers is: 42.00
 The average of the three numbers is: 14.00
 
 Process returned 0 (0x0)   execution time : 14.241 s
-Press any key to continue.
+Press any key to continue..
 */
